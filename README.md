@@ -1,6 +1,7 @@
 <div align="center">
   
-## <h1>Hi, I'm Sourav!</h1>
+## **hii, I'm Sourav!**
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=mono&size=35&duration=3000&pause=900&color=31A9DE&background=0006FF00&center=true&vCenter=true&random=true&width=500&height=60&lines=A+Developer;A+Student;A+Tech+Enthusiast;A+Prompt+Engineer;Learning+how+to+code" alt="Typing SVG" /></a>
 
 ![](https://komarev.com/ghpvc/?username=whysourav&label=Vistors+Count&color=blue&style=for-the-badge)
