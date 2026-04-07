@@ -1,6 +1,6 @@
 <div align="center">
   
-## **hii, I'm Sourav!**
+## **hii, I'm Sourav Sharma!**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=mono&size=35&duration=3000&pause=900&color=31A9DE&background=0006FF00&center=true&vCenter=true&random=true&width=500&height=60&lines=A+Developer;A+Student;Tech+Enthusiast;Learning+how+to+code" alt="Typing SVG" /></a>
 
